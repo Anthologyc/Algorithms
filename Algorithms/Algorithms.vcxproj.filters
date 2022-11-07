@@ -15,7 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="homework1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="a.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="homework3.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
